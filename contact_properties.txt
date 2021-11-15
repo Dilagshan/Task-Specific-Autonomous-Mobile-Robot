@@ -1,0 +1,9 @@
+contact material
+a. Contact material 01 name:d1
+b. Contact material 02 name:b1
+c. CoulombFriction value:2
+
+contact material
+a. Contact material 01 name:d2
+b. Contact material 02 name:b1
+c. CoulombFriction value:2
